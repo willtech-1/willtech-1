@@ -2,10 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Aphile, a full-stack developer 👨‍💻  with experience using MERN Stack 🚀</div>  
- 
-  
 
 - 🌱 On my free time I'm on code wars   
   
